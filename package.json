@@ -2,7 +2,7 @@
   "name": "lpreet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lpreet.github.io",
+  "homepage": "https://lpreets.github.io",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",

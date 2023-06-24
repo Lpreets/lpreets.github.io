@@ -6,19 +6,19 @@ const PortfolioListContent = [
         image: 'image-1',
         category: 'Meta Front-End Developer',
         title: 'Little Lemon',
-        link: 'https://lpreets.github.io/meta-fec/'
+        link: 'https://lpreets.github.io/meta-frontendcapstone'
     },
     {
         image: 'image-2',
         category: 'Meta Back-End Developer',
         title: 'Little Lemon API',
-        link: 'https://lpreet.pythonanywhere.com/'
+        link: 'https://lpreet.pythonanywhere.com'
     },
     {
         image: 'image-3',
         category: 'Projects',
         title: 'MovieWorld',
-        link: 'https://lpreets.github.io/movieworld/'
+        link: 'https://lpreets.github.io/movieworld'
     },
     {
         image: 'image-4',
