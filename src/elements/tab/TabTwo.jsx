@@ -119,12 +119,14 @@ class TabsTwo extends Component {
                       <ul>
                         <li>
                           <h6>HarvardX</h6>
-                          Computer Science for Artifical Intelligence
+                          CS50's Computer Science for Artifical Intelligence - Current <br />
+                          CS50's Introduction to Programming with Python - Current
                         </li>
                         <li>
                           <h6>
                             Coursera
                           </h6>
+                          Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization - Current
                           <a href="https://www.credly.com/badges/f9a6f169-1eaf-49b3-a6a9-a05547c0c8c3">Meta Full-Stack Software Engineer Certificate </a>
                           <a href="https://www.credly.com/badges/1577eef6-d928-45d2-89f1-a74b41a24276">Meta Back-End Developer Profesional Certificate </a>
                           <a href="https://www.credly.com/badges/e9433593-6ccd-42e1-a152-1e540b39aead">Meta Front-End Developer Profesional Certificate</a>
